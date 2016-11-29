@@ -1,3 +1,5 @@
+### WHY DO YOU WANT THIS JOB?
+
 * it would be a huge career shift for me and a chance for a very long term career.
 
 * it’s a great chance for learning and gaining expereince (and expereience is my main goal at the moment), I know that working at Sky(SNS) will provide me with an uncanny resource for learning and training and the support of their more seasoned developers (and their library).
@@ -7,3 +9,10 @@
 * Working in mobile development and Java in particular. it’s my main passion and it would be a dream come true to start my career in mobile development (I’m also facinated with Swift).
 
 * Getting a chance to work and learn the best practices of TDD and BDD in an agile work enviroment.
+
+### WHY SHOULD SKY HIRE YOU?
+
+* I'm very passionate about working with Sky, I beleive my passion will drive me to become the best developer I could be.
+
+* I'm willing to learn anything, I don't have prefereable language or tech (Tech agnostic), I'm also patienat and fast learning.
+*
