@@ -6,7 +6,7 @@
 
 * It’s a chance to work on a huge variety of projects and apps. even though I might not be able to contribute to production at the beginning I still look forward to being part of the action.
 
-* Working in mobile development and Java in particular. it’s my main passion and it would be a dream come true to start my career in mobile development (I’m also fascinated with Swift).
+* Working in mobile development and Java in particular. It’s my main passion and it would be a dream come true to start my career in mobile development (I’m also fascinated with Swift).
 
 * Getting a chance to work and learn the best practices of TDD and BDD in an agile work environment.
 
@@ -16,7 +16,7 @@
 * I'm very passionate about working with Sky, I believe my passion will drive me to become the best developer I could be.
 
 * I'm willing to learn anything, I don't have preferable language or tech (Tech agnostic), I'm also patient and fast learning, I take chance on every learning opportunity.
-* I enjoy coding more than anything in live, problem solving is my dream job.
+* I enjoy coding more than anything in life, problem solving is my dream job.
 
 * I have expereince with the agile methodology and I practice XP values and believe in them. I think that working with those values in mind encourages experimentation and diversification as a means of finding new solutions.
 
