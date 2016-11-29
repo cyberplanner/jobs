@@ -19,6 +19,4 @@
 
 * I'm willing to learn anything, I don't have preferable language or tech (Tech agnostic), I'm also patient and fast learning, I take chance on every learning opportunity I get.
 
-* I enjoy coding more than anything in life, problem solving is my dream job.
-
 * I have some experience in the agile methodology and I practice XP values and believe in them. I think that working with those values in mind encourages experimentation and diversification as a means of finding new solutions.
