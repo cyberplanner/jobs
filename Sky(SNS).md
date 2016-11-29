@@ -11,7 +11,7 @@
 * Getting a chance to work and learn the best practices of TDD and BDD in an agile work environment.
 
 ### WHY SHOULD SKY HIRE YOU?
-* I'm a good problem solver, and I truly enjoy the challenge of breaking down a problem and finding answers which can be applied in the real world. I’m fixated on code craftsmanship and take pride in writing elegant, test-driven code.
+* I'm a good problem-solver, and I truly enjoy the challenge of breaking down a problem and finding answers which can be applied in the real world. I’m fixated on code craftsmanship and take pride in writing elegant, test-driven code.
 
 * I'm very passionate about working with Sky, I believe my passion will drive me to become the best developer I could be.
 
