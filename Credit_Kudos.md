@@ -1,6 +1,6 @@
 ### WHY DO YOU WANT THIS JOB?
 
-* It’s a great chance for learning and gaining experience (and experience is my main goal at the moment), working within a small team will allow me to explore and learn more about security, data science and machine learning.
+* It’s a great chance for learning and gaining experience (and experience is my main goal at the moment), working with Credit Kudos will allow me to explore and learn more about security, data science and machine learning.
 
 * It’s a chance to work on a variety of interesting problems.
 
