@@ -25,21 +25,42 @@
 * techs: node, .Net...open for new techs.
 
 ### Financial Times
-* 1 dev.
+* 1 roles.
 * editorial content (inc. video).
 * responcive graphics.
 * Tech: node, HTML, js.
 * build tools for jurnalists.
 * 120 y company.
-* 
 
-
-
-### Education First
 
 ### King Fisher:
+* MongoDB, express, Angular, Node: mean stack.
+* Dirubt based startup.
+* 10 roles.
+
 
 ### Ministry of Justice:
+* Managing courts and prisons.
+* ruby, python, node.
+* 1 maybe 2 roles.
+* projects: visit someone in prison.
+  * not visited convicts 39% more likely to commit crime
+* GOV digital services.
+* doing things that matter, changing lives and changing government services.
+* Working in agile env.
+* really fucking cool view!
+
+### Education First
+* English language company.
+* learning and assessment.
+* india, china market.
+* online learning.
+* Free, online always available language test (EFSET).
+* Java backend, single-page app forntend.
+* 1 to 2 software eng roles.
+
+
+
 
 
 
