@@ -23,4 +23,4 @@
 
 * I have some experience in the agile methodology and I practice XP values and believe in them.
 
-* I'm a team player.
+* I'm an enthusiastic team player and I work very well with others
