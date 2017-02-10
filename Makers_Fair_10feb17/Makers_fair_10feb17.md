@@ -56,7 +56,7 @@
 * Ex Makers.
 * Like pairing
 * .Net but adaptive.
-* 
+
 
 
 ### mGage
@@ -64,14 +64,32 @@
 * Mobile payment  - current project.
 * Ruby, Rils, Elixer.
 * Agile, Small team.
-* 
+* 1 role
+
 
 ### HomeFlow
-* 
+* Ruby, pairing, trello
+* Web Agency
+* Brighton
+* Stable startup hyprid
+* Samll Team
+* 11 dev
+* 2 roles
+* fullstack
+
+
 
 
 ### PolyLytics
-* 
+* Small bussinesses
+* Oxford
+* fullstack
+* .Net house
+* Lots of help
+* 2 sen, 1 jun
+* adaptive
+
+
 
 
 Deadline: Tuesday 10Am
