@@ -9,6 +9,7 @@
 * I'm doing an internship in their ASE Team.
 * 3 Weeks
 
+
 ### GDS
 * Lastminutes.com
 * gov.uk
@@ -47,6 +48,7 @@
 * 2 roles
 * 2 Weeks
 
+
 ### LexisNexis
 * Legal info for professionals
 * Research platform
@@ -81,8 +83,6 @@
 * fullstack
 
 
-
-
 ### PolyLytics
 * Small bussinesses
 * Oxford
@@ -99,5 +99,7 @@ Deadline: Tuesday 10Am
 
 ### IMPORTANT JOB APPLYING INFO!
 - deadline for applications via Hub for the careers fair roles is *Tuesday 10am* - get them done! Do your research, give one or two really specific things on each application as to why you're applying, and don't hold back in expressing how much a role appeals to you!
+
 - GDS and HSBC is a bit longer as we're waiting on their job descriptions; watch this space
+
 - Please also let us know in your private channel what your order of preference is for your applications - if you don't tell us how very very much you want a specific job, we won't know!
